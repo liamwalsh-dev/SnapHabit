@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "A6B94A5D-4F11-4E56-B9C9-54923809C998",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:SnapHabit-v2.xcodeproj",
+        "identifier" : "836BAAE32E779D37004D9612",
+        "name" : "SnapHabit-v2Tests"
+      }
+    }
+  ],
+  "version" : 1
+}
