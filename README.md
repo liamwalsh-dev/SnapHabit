@@ -10,7 +10,7 @@ A photo-based habit tracking iOS app built with SwiftUI.
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Architecture](#architecture)
 - [Navigation Flow](#navigation-flow)
 
